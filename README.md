@@ -30,4 +30,4 @@ Open to Machine Learning Engineer, Data Scientist and NLP Engineer roles.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/syed-ali-ibtissam-bukhari-50438028a) · aliibtissam14@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ibtissambukhari) · aliibtissam14@gmail.com
