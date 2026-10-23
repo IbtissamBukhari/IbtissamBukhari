@@ -4,6 +4,8 @@ Machine Learning Engineer and Software Engineering graduate from Mirpur Universi
 
 I build machine learning systems end to end: cleaning the data, training and evaluating models, and shipping them as tested, containerised APIs with CI/CD. My focus is NLP, deep learning and MLOps.
 
+**Portfolio:** [ibtissambukhari.github.io](https://ibtissambukhari.github.io) — live demos and a case study for every project.
+
 ### Featured projects
 
 | Project | What it does | Stack | Live |
@@ -27,8 +29,8 @@ The live demos run on free hosting, so the first request after a quiet period ca
 
 Building an end-to-end MLOps project with experiment tracking, automated testing and deployment.
 
-Open to Machine Learning Engineer, Data Scientist and NLP Engineer roles.
+Open to Machine Learning Engineer, AI Engineer, Software Engineer, Data Scientist and NLP Engineer roles.
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/ibtissambukhari) · aliibtissam14@gmail.com
+[Portfolio](https://ibtissambukhari.github.io) · [LinkedIn](https://www.linkedin.com/in/ibtissambukhari) · aliibtissam14@gmail.com
